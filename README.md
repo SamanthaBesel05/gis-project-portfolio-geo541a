@@ -1,6 +1,6 @@
 # GEO 441/541 Geographic Information Systems :globe_with_meridians:
 
-Author: Samantha Besel :cat2:
+**Author: Samantha Besel**:cat2:
 
 ## Overview
 - This repository contains Google Colab Notebooks prepared for GEO 441/541 at Miami University during the Fall 2025 semester.
